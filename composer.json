@@ -4,10 +4,6 @@
     "license": "MIT",
     "description": "A skeleton to start a new Symfony website",
     "require": {
-        "ext-bcmath": "*",
-        "ext-mcrypt": "*",
-        "ext-memcached": "*",
-        "ext-mongodb": "^1.1.0",
         "php": ">=7.2.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
